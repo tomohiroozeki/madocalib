@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denshi\\Desktop\\madocalib-main\\app\\vs\\rnx2rtkp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAB3E67-D73D-43D8-A80D-87A3DE6F8F4B}|rnx2rtkp\\rnx2rtkp.vcxproj|C:\\Users\\denshi\\Desktop\\madocalib-main\\src\\ephemeris.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAB3E67-D73D-43D8-A80D-87A3DE6F8F4B}|rnx2rtkp\\rnx2rtkp.vcxproj|C:\\Users\\denshi\\Desktop\\madocalib-main\\app\\consapp\\rnx2rtkp\\rnx2rtkp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ephemeris.c",
+              "DocumentMoniker": "C:\\Users\\denshi\\Desktop\\madocalib-main\\src\\ephemeris.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\src\\ephemeris.c",
+              "ToolTip": "C:\\Users\\denshi\\Desktop\\madocalib-main\\src\\ephemeris.c",
+              "RelativeToolTip": "..\\..\\..\\src\\ephemeris.c",
+              "ViewState": "AQIAAA8CAAAAAAAAAAAgwDoCAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-28T10:51:56.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rnx2rtkp.c",
+              "DocumentMoniker": "C:\\Users\\denshi\\Desktop\\madocalib-main\\app\\consapp\\rnx2rtkp\\rnx2rtkp.c",
+              "RelativeDocumentMoniker": "..\\..\\consapp\\rnx2rtkp\\rnx2rtkp.c",
+              "ToolTip": "C:\\Users\\denshi\\Desktop\\madocalib-main\\app\\consapp\\rnx2rtkp\\rnx2rtkp.c",
+              "RelativeToolTip": "..\\..\\consapp\\rnx2rtkp\\rnx2rtkp.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-28T10:51:02.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
