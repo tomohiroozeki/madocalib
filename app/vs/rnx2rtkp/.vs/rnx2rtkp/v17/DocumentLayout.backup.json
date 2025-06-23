@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomohiro\\Desktop\\madocalib\\app\\vs\\rnx2rtkp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3437986-C6C3-42D6-B17F-092F602FB47A}|rnx2rtkp\\rnx2rtkp.vcxproj|C:\\Users\\tomohiro\\Desktop\\madocalib\\app\\consapp\\rnx2rtkp\\rnx2rtkp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3437986-C6C3-42D6-B17F-092F602FB47A}|rnx2rtkp\\rnx2rtkp.vcxproj|C:\\Users\\tomohiro\\Desktop\\madocalib\\src\\ephemeris.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3437986-C6C3-42D6-B17F-092F602FB47A}|rnx2rtkp\\rnx2rtkp.vcxproj|C:\\Users\\tomohiro\\Desktop\\madocalib\\src\\geoid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rnx2rtkp.c",
+              "DocumentMoniker": "C:\\Users\\tomohiro\\Desktop\\madocalib\\app\\consapp\\rnx2rtkp\\rnx2rtkp.c",
+              "RelativeDocumentMoniker": "..\\..\\consapp\\rnx2rtkp\\rnx2rtkp.c",
+              "ToolTip": "C:\\Users\\tomohiro\\Desktop\\madocalib\\app\\consapp\\rnx2rtkp\\rnx2rtkp.c",
+              "RelativeToolTip": "..\\..\\consapp\\rnx2rtkp\\rnx2rtkp.c",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAN0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-23T07:36:44.759Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ephemeris.c",
+              "DocumentMoniker": "C:\\Users\\tomohiro\\Desktop\\madocalib\\src\\ephemeris.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\src\\ephemeris.c",
+              "ToolTip": "C:\\Users\\tomohiro\\Desktop\\madocalib\\src\\ephemeris.c",
+              "RelativeToolTip": "..\\..\\..\\src\\ephemeris.c",
+              "ViewState": "AgIAADwCAAAAAAAAAADgv1ECAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-23T07:50:58.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "geoid.c",
+              "DocumentMoniker": "C:\\Users\\tomohiro\\Desktop\\madocalib\\src\\geoid.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\src\\geoid.c",
+              "ToolTip": "C:\\Users\\tomohiro\\Desktop\\madocalib\\src\\geoid.c",
+              "RelativeToolTip": "..\\..\\..\\src\\geoid.c",
+              "ViewState": "AgIAAK8AAAAAAAAAAADgv9IAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-23T07:50:11.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
